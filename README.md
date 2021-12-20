@@ -1,4 +1,3 @@
 # Gallery
-===
 ✨MyGallery
 
